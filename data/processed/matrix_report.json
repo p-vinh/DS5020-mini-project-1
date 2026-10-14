@@ -1,0 +1,11 @@
+{
+  "shape": [
+    5437,
+    2880
+  ],
+  "dtype": "float64",
+  "dense_mib": 119.46533203125,
+  "csr_mib": 4.224033355712891,
+  "factor_rank_estimate": 200,
+  "factor_storage_mib_estimate": 12.69073486328125
+}
